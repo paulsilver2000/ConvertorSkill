@@ -1,0 +1,4 @@
+BalanceIntent what is my {Account} account balance
+BalanceIntent how much money do i have in my {Account} account
+BalanceIntent how much money is in my {Account} account
+BalanceIntent how much is in my {Account} account
